@@ -1,6 +1,6 @@
 # SpyrodHub-PL
 
-Spyrod Hub Version: 1.0
+Spyrod Hub Version: 1.1
 
 Hub only Prison Life
 
