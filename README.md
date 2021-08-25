@@ -8,8 +8,6 @@ Hub only Prison Life
 
 Creator: Euronymou5
 Desing UI: Euronymou5
-Scripts: LocalPlayer
-
 # Info
 
 I'll be getting updates from the hub
