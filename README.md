@@ -8,8 +8,3 @@ Hub only Prison Life
 
 Creator: Euronymou5
 Desing UI: Euronymou5
-# Info
-
-I'll be getting updates from the hub
-
-Spyrod Hub Discord Server: discord.gg/fmdxRKZHEb
